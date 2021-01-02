@@ -1,0 +1,91 @@
+/* font-family 'Inconsolata', monospace; */
+body {
+    font-family: none;
+}
+
+#title {
+    font-family: 'Inconsolata', monospace;
+    font-weight: 700;
+    font-size: 24px;
+    padding-left: 77px;
+    padding-top: 40px;
+    height: 25px;
+    width: 158px;
+}
+
+@media only screen and (max-width: 768px) {
+    #title {
+      padding-left: 24px;
+      padding-top: 20px;
+    }
+  }
+
+@media only screen and (min-width: 768px) {
+    .pageImage img{
+        float: left;
+        height: 414.2492370605469px;    
+        width: 539.2236938476562px;
+        padding-left: 77px;
+        padding-top: 200px;
+        border-radius: 0px;
+    }
+
+    .NotFoundMessage h1, p {
+        font-family: 'Space Mono', monospace;
+        padding-left: 118px;
+    }
+
+    .NotFoundMessage h1{
+        float: left;
+        width: 600px;
+        padding-top: 140px;
+        border-radius: 0px;
+        margin-bottom: 0px;
+        font-weight: 700;
+        font-size: 64px;
+    }
+
+    .NotFoundMessage  p{
+        float: left;
+        height: 400px;
+        width: 500px;
+        padding-top: 0px;
+        font-size: 24px;
+        border-radius: 0px;
+    }
+  }
+@media only screen and (max-width: 768px) {
+    .pageImage img{
+        padding-top: 64px;
+        border-radius: 0px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        height: 50%;
+    }
+
+    .NotFoundMessage h1, p {
+        font-family: 'Space Mono', monospace;
+        padding-left: 24px;
+    }
+
+    .NotFoundMessage h1{
+        width: 450px;
+        height: 142px;
+        font-weight: 700;
+        font-size: 48px;
+    }
+
+    .NotFoundMessage p{
+        width: 450px;
+        height: 81px;
+        font-weight: 400;
+        font-size: 18px;
+    }
+  }
+
+footer {
+    position: fixed;
+    bottom: 0;;
+}
