@@ -68,6 +68,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{josejardim.xyz})
-- GitHub [@your-username](https://{github.com/Jardimjose})
+- Website [your-website.com](https://josejardim.xyz)
+- GitHub [@your-username](https://github.com/Jardimjose)
 
