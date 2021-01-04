@@ -32,7 +32,7 @@
 
 ## Overview
 
-![screenshot](https://cdn.discordapp.com/attachments/710242426434093126/795664573734060072/Screenshots.png)
+![screenshot](https://cdn.discordapp.com/attachments/710242426434093126/795664878555758662/Screenshots.png)
 
 ### Built With
 
