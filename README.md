@@ -8,7 +8,6 @@
 
 <div align="center">
   <h3>
-    <span> | </span>
     <a href="https://jardimjose.github.io/404_Page/">
       Solution
     </a>
